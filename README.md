@@ -12,3 +12,4 @@
 
 ![ilovelinux's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilovelinux&count_private=true&&show_icons=true&theme=github_dark)
 ![ilovelinux's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilovelinux&theme=github-dark&date_format=j%20M%5B%20Y%5D)
+[![ilovelinux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ilovelinux)](https://github.com/anuraghazra/github-readme-stats)
