@@ -1,0 +1,35 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: check-added-large-files
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+  - repo: https://github.com/python-jsonschema/check-jsonschema
+    rev: 0.34.0
+    hooks:
+      - id: check-github-workflows
+  - repo: https://github.com/hukkin/mdformat
+    rev: 0.7.22
+    hooks:
+      - id: mdformat
+        additional_dependencies:
+          - mdformat-simple-breaks
+          # Add GitHub Flavored Markdown (GFM) support
+          - mdformat-gfm
+          - mdformat-frontmatter
+          - mdformat-footnote
+          - mdformat-gfm-alerts
+  - repo: https://github.com/jackdewinter/pymarkdown
+    rev: v0.9.32
+    hooks:
+      - id: pymarkdown
+  - repo: https://github.com/crate-ci/typos
+    rev: v1.36.3
+    hooks:
+      - id: typos
+  - repo: https://github.com/google/yamlfmt
+    rev: v0.17.2
+    hooks:
+      - id: yamlfmt

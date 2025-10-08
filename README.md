@@ -1,13 +1,34 @@
-# Hi there 👋
+<!--- pyml disable no-trailing-punctuation--->
 
-## Elevator pitch
+# Hi there! :wave:
 
-- 📚 I'm a 22 y.o. computer engineering student at the [Polytechnic of Turin](https://www.polito.it/).
-- 👨🏻‍💻 I love developing softwares. I have been studying computer science since I was a child.
-- 🏆 I won [Italian Olympiads of Informatics](https://www.olimpiadi-informatica.it/) twice and I have been chosen for the [International Olympiads of Informatics](https://ioinformatics.org/) stages once.
-- 💬 I speak 🇮🇹 and 🇬🇧!
+<!--- pyml enable no-trailing-punctuation--->
 
-## Stats
+I'm Antonio. I love contributing to open-source project and share my knowledge
+at conferences!
+
+## :walking: Latest talk
+
+<!--- pyml disable line-length--->
+
+- :snake: :it:
+  [Design by Contract: costruire software robusto con il Contract-First Development](https://www.youtube.com/watch?v=XTFKHgUJtjM&pp=ygUZZGVzaWduIGJ5IGNvbnRyYWN0IHB5dGhvbg%3D%3D)
+  ([Pycon Italia 2025 @ Bologna, Italy](https://2025.pycon.it/en/event/design-by-contract-costruire-software-robusto-con-il-contract-first-development) -
+  [:page_facing_up: Slides](https://www.slideshare.net/slideshow/design-by-contract-building-robust-software-with-contract-first-development/280097866))
+
+<!--- pyml enable line-length--->
+
+## :zap: Recent Activity
+
+<!--- pyml disable line-length--->
+
+<!--START_SECTION:activity-->
+
+<!--- pyml enable line-length--->
+
+---
+
+## :chart_with_upwards_trend: Stats
 
 ![ilovelinux's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilovelinux&count_private=true&&show_icons=true&theme=github_dark)
-![ilovelinux's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilovelinux&theme=github-dark&date_format=j%20M%5B%20Y%5D)
+![ilovelinux's GitHub Streak](https://streak-stats.demolab.com/?user=ilovelinux&theme=github-dark&date_format=j%20M%5B%20Y%5D)
