@@ -23,11 +23,11 @@ at conferences!
 <!--- pyml disable line-length--->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3644](https://github.com/encode/httpx/issues/3644#issuecomment-3380765115) in [encode/httpx](https://github.com/encode/httpx)
-2. 🗣 Commented on [#1043](https://github.com/encode/httpcore/issues/1043#issuecomment-3380758277) in [encode/httpcore](https://github.com/encode/httpcore)
-3. 🔒 Closed issue [#1043](https://github.com/encode/httpcore/issues/1043) in [encode/httpcore](https://github.com/encode/httpcore)
-4. 🗣 Commented on [#3644](https://github.com/encode/httpx/issues/3644#issuecomment-3380694654) in [encode/httpx](https://github.com/encode/httpx)
-5. 🗣 Commented on [#2469](https://github.com/koxudaxi/datamodel-code-generator/pull/2469#issuecomment-3377919248) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#3644](https://github.com/encode/httpx/issues/3644#issuecomment-3381000895) in [encode/httpx](https://github.com/encode/httpx)
+2. 🗣 Commented on [#3644](https://github.com/encode/httpx/issues/3644#issuecomment-3380950996) in [encode/httpx](https://github.com/encode/httpx)
+3. 🗣 Commented on [#3644](https://github.com/encode/httpx/issues/3644#issuecomment-3380765115) in [encode/httpx](https://github.com/encode/httpx)
+4. 🗣 Commented on [#1043](https://github.com/encode/httpcore/issues/1043#issuecomment-3380758277) in [encode/httpcore](https://github.com/encode/httpcore)
+5. 🔒 Closed issue [#1043](https://github.com/encode/httpcore/issues/1043) in [encode/httpcore](https://github.com/encode/httpcore)
 <!--END_SECTION:activity-->
 
 <!--- pyml enable line-length--->
