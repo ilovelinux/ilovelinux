@@ -23,11 +23,11 @@ at conferences!
 <!--- pyml disable line-length--->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/tox-dev/toml-fmt/pull/92#issuecomment-3384223715) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
-2. 🗣 Commented on [#3644](https://github.com/encode/httpx/issues/3644#issuecomment-3381000895) in [encode/httpx](https://github.com/encode/httpx)
-3. 🗣 Commented on [#3644](https://github.com/encode/httpx/issues/3644#issuecomment-3380950996) in [encode/httpx](https://github.com/encode/httpx)
-4. 🗣 Commented on [#3644](https://github.com/encode/httpx/issues/3644#issuecomment-3380765115) in [encode/httpx](https://github.com/encode/httpx)
-5. 🗣 Commented on [#1043](https://github.com/encode/httpcore/issues/1043#issuecomment-3380758277) in [encode/httpcore](https://github.com/encode/httpcore)
+1. 🗣 Commented on [#2505](https://github.com/koxudaxi/datamodel-code-generator/pull/2505#issuecomment-3385650573) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🗣 Commented on [#92](https://github.com/tox-dev/toml-fmt/pull/92#issuecomment-3384223715) in [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt)
+3. 🗣 Commented on [#3644](https://github.com/encode/httpx/issues/3644#issuecomment-3381000895) in [encode/httpx](https://github.com/encode/httpx)
+4. 🗣 Commented on [#3644](https://github.com/encode/httpx/issues/3644#issuecomment-3380950996) in [encode/httpx](https://github.com/encode/httpx)
+5. 🗣 Commented on [#3644](https://github.com/encode/httpx/issues/3644#issuecomment-3380765115) in [encode/httpx](https://github.com/encode/httpx)
 <!--END_SECTION:activity-->
 
 <!--- pyml enable line-length--->
