@@ -23,11 +23,11 @@ at conferences!
 <!--- pyml disable line-length--->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2516](https://github.com/koxudaxi/datamodel-code-generator/issues/2516) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 💪 Opened PR [#2515](https://github.com/koxudaxi/datamodel-code-generator/pull/2515) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🔒 Closed issue [#2513](https://github.com/koxudaxi/datamodel-code-generator/issues/2513) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 💪 Opened PR [#2514](https://github.com/koxudaxi/datamodel-code-generator/pull/2514) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. ❗ Opened issue [#2513](https://github.com/koxudaxi/datamodel-code-generator/issues/2513) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#2515](https://github.com/koxudaxi/datamodel-code-generator/pull/2515#issuecomment-3393603231) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🗣 Commented on [#2515](https://github.com/koxudaxi/datamodel-code-generator/pull/2515#issuecomment-3393597135) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🗣 Commented on [#2505](https://github.com/koxudaxi/datamodel-code-generator/pull/2505#issuecomment-3393549856) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🗣 Commented on [#2515](https://github.com/koxudaxi/datamodel-code-generator/pull/2515#issuecomment-3393526278) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. ❗ Opened issue [#2516](https://github.com/koxudaxi/datamodel-code-generator/issues/2516) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 <!--END_SECTION:activity-->
 
 <!--- pyml enable line-length--->
