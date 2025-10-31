@@ -23,11 +23,11 @@ at conferences!
 <!--- pyml disable line-length--->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20011](https://github.com/django/django/pull/20011#issuecomment-3473158848) in [django/django](https://github.com/django/django)
-2. 🗣 Commented on [#2487](https://github.com/koxudaxi/datamodel-code-generator/issues/2487#issuecomment-3472954159) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🔒 Closed issue [#817](https://github.com/jpd002/Play-/issues/817) in [jpd002/Play-](https://github.com/jpd002/Play-)
-4. 🔒 Closed issue [#495](https://github.com/Antox/Antox/issues/495) in [Antox/Antox](https://github.com/Antox/Antox)
-5. 🗣 Commented on [#495](https://github.com/Antox/Antox/issues/495#issuecomment-3472929927) in [Antox/Antox](https://github.com/Antox/Antox)
+1. 🗣 Commented on [#6345](https://github.com/mermaid-js/mermaid/pull/6345#issuecomment-3473629883) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+2. 🗣 Commented on [#1656](https://github.com/koxudaxi/datamodel-code-generator/issues/1656#issuecomment-3473481367) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🗣 Commented on [#2520](https://github.com/koxudaxi/datamodel-code-generator/pull/2520#issuecomment-3473459593) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🗣 Commented on [#2039](https://github.com/koxudaxi/datamodel-code-generator/issues/2039#issuecomment-3473410302) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🗣 Commented on [#46](https://github.com/par-tec/python-cookiecutter/issues/46#issuecomment-3473303605) in [par-tec/python-cookiecutter](https://github.com/par-tec/python-cookiecutter)
 <!--END_SECTION:activity-->
 
 <!--- pyml enable line-length--->
