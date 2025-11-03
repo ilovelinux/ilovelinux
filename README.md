@@ -23,11 +23,11 @@ at conferences!
 <!--- pyml disable line-length--->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2505](https://github.com/koxudaxi/datamodel-code-generator/pull/2505#issuecomment-3473945978) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🗣 Commented on [#7060](https://github.com/mermaid-js/mermaid/pull/7060#issuecomment-3473831283) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-3. 🗣 Commented on [#6345](https://github.com/mermaid-js/mermaid/pull/6345#issuecomment-3473629883) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-4. 🗣 Commented on [#1656](https://github.com/koxudaxi/datamodel-code-generator/issues/1656#issuecomment-3473481367) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🗣 Commented on [#2520](https://github.com/koxudaxi/datamodel-code-generator/pull/2520#issuecomment-3473459593) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#464](https://github.com/koxudaxi/datamodel-code-generator/issues/464#issuecomment-3479634708) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🗣 Commented on [#244](https://github.com/koxudaxi/datamodel-code-generator/issues/244#issuecomment-3479614204) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🗣 Commented on [#2505](https://github.com/koxudaxi/datamodel-code-generator/pull/2505#issuecomment-3473945978) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🗣 Commented on [#7060](https://github.com/mermaid-js/mermaid/pull/7060#issuecomment-3473831283) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+5. 🗣 Commented on [#6345](https://github.com/mermaid-js/mermaid/pull/6345#issuecomment-3473629883) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
 <!--END_SECTION:activity-->
 
 <!--- pyml enable line-length--->
