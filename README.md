@@ -4,8 +4,7 @@
 
 <!--- pyml enable no-trailing-punctuation--->
 
-I'm Antonio. I love contributing to open-source project and share my knowledge
-at conferences!
+I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 ## :walking: Latest talk
 
