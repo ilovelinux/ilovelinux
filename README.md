@@ -22,11 +22,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 <!--- pyml disable line-length--->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#118](undefined) in [hurshi/dio-http-cache](https://github.com/hurshi/dio-http-cache)
-2. ❌ Labeled PR [#2521](undefined) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#2530](https://github.com/koxudaxi/datamodel-code-generator/pull/2530#issuecomment-3541340656) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. ❌ Closed PR [#118](undefined) in [hurshi/dio-http-cache](https://github.com/hurshi/dio-http-cache)
 3. ❌ Labeled PR [#2521](undefined) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🗣 Commented on [#2521](https://github.com/koxudaxi/datamodel-code-generator/pull/2521#issuecomment-3540734729) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🔒 Closed issue [#643](https://github.com/koxudaxi/datamodel-code-generator/issues/643) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. ❌ Labeled PR [#2521](undefined) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🗣 Commented on [#2521](https://github.com/koxudaxi/datamodel-code-generator/pull/2521#issuecomment-3540734729) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 <!--END_SECTION:activity-->
 
 <!--- pyml enable line-length--->
