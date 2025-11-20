@@ -22,11 +22,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 <!--- pyml disable line-length--->
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#2543](https://github.com/koxudaxi/datamodel-code-generator/issues/2543) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2.  Labeled issue [#2543](https://github.com/koxudaxi/datamodel-code-generator/issues/2543) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. ❌ Labeled PR [#2542](undefined) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4.  Labeled issue [#2458](https://github.com/koxudaxi/datamodel-code-generator/issues/2458) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 💪 Opened PR [#2542](undefined) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#2488](https://github.com/koxudaxi/datamodel-code-generator/issues/2488#issuecomment-3554923616) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2.  Labeled issue [#2488](https://github.com/koxudaxi/datamodel-code-generator/issues/2488) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3.  Labeled issue [#2488](https://github.com/koxudaxi/datamodel-code-generator/issues/2488) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4.  Labeled issue [#2527](https://github.com/koxudaxi/datamodel-code-generator/issues/2527) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5.  Labeled issue [#2527](https://github.com/koxudaxi/datamodel-code-generator/issues/2527) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 <!--END_SECTION:activity-->
 
 <!--- pyml enable line-length--->
