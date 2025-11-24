@@ -22,11 +22,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 <!--- pyml disable line-length--->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#246](https://github.com/graphql-python/graphql-core/issues/246#issuecomment-3564923523) in [graphql-python/graphql-core](https://github.com/graphql-python/graphql-core)
-2. 🗣 Commented on [#2488](https://github.com/koxudaxi/datamodel-code-generator/issues/2488#issuecomment-3554923616) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3.  Labeled issue [#2488](https://github.com/koxudaxi/datamodel-code-generator/issues/2488) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#2437](https://github.com/koxudaxi/datamodel-code-generator/pull/2437#issuecomment-3571015168) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🗣 Commented on [#246](https://github.com/graphql-python/graphql-core/issues/246#issuecomment-3564923523) in [graphql-python/graphql-core](https://github.com/graphql-python/graphql-core)
+3. 🗣 Commented on [#2488](https://github.com/koxudaxi/datamodel-code-generator/issues/2488#issuecomment-3554923616) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 4.  Labeled issue [#2488](https://github.com/koxudaxi/datamodel-code-generator/issues/2488) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5.  Labeled issue [#2527](https://github.com/koxudaxi/datamodel-code-generator/issues/2527) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5.  Labeled issue [#2488](https://github.com/koxudaxi/datamodel-code-generator/issues/2488) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 <!--END_SECTION:activity-->
 
 <!--- pyml enable line-length--->
