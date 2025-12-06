@@ -22,11 +22,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 <!--- pyml disable line-length--->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2533](https://github.com/koxudaxi/datamodel-code-generator/issues/2533) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🗣 Commented on [#2533](https://github.com/koxudaxi/datamodel-code-generator/issues/2533#issuecomment-3619828642) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🗣 Commented on [#1](https://github.com/dgtlmoon/sockpuppetbrowser/issues/1#issuecomment-3617551578) in [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser)
-4.  Labeled issue [#2593](https://github.com/koxudaxi/datamodel-code-generator/issues/2593) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5.  Labeled issue [#2593](https://github.com/koxudaxi/datamodel-code-generator/issues/2593) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#2120](https://github.com/koxudaxi/datamodel-code-generator/issues/2120#issuecomment-3619879188) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🔒 Closed issue [#2120](https://github.com/koxudaxi/datamodel-code-generator/issues/2120) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🔒 Closed issue [#2533](https://github.com/koxudaxi/datamodel-code-generator/issues/2533) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🗣 Commented on [#2533](https://github.com/koxudaxi/datamodel-code-generator/issues/2533#issuecomment-3619828642) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🗣 Commented on [#1](https://github.com/dgtlmoon/sockpuppetbrowser/issues/1#issuecomment-3617551578) in [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser)
 <!--END_SECTION:activity-->
 
 <!--- pyml enable line-length--->
