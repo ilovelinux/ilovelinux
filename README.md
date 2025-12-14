@@ -22,11 +22,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 <!--- pyml disable line-length--->
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#2500](https://github.com/koxudaxi/datamodel-code-generator/issues/2500) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2.  Labeled issue [#2500](https://github.com/koxudaxi/datamodel-code-generator/issues/2500) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3.  Labeled issue [#2500](https://github.com/koxudaxi/datamodel-code-generator/issues/2500) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4.  Labeled issue [#2639](https://github.com/koxudaxi/datamodel-code-generator/issues/2639) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🗣 Commented on [#1986](https://github.com/koxudaxi/datamodel-code-generator/issues/1986#issuecomment-3649666818) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1.  Labeled issue [#2405](https://github.com/koxudaxi/datamodel-code-generator/issues/2405) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🗣 Commented on [#2447](https://github.com/koxudaxi/datamodel-code-generator/issues/2447#issuecomment-3651371482) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🔒 Closed issue [#2447](https://github.com/koxudaxi/datamodel-code-generator/issues/2447) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🔒 Closed issue [#2490](https://github.com/koxudaxi/datamodel-code-generator/issues/2490) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🗣 Commented on [#2490](https://github.com/koxudaxi/datamodel-code-generator/issues/2490#issuecomment-3651342140) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 <!--END_SECTION:activity-->
 
 <!--- pyml enable line-length--->
