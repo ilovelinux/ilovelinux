@@ -23,11 +23,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2870](https://github.com/koxudaxi/datamodel-code-generator/issues/2870) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🗣 Commented on [#2870](https://github.com/koxudaxi/datamodel-code-generator/issues/2870#issuecomment-3705065465) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. ℹ️ Labeled PR [#2895](https://github.com/koxudaxi/datamodel-code-generator/pull/2895) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. ℹ️ Labeled PR [#2896](https://github.com/koxudaxi/datamodel-code-generator/pull/2896) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. ℹ️ Labeled PR [#2894](https://github.com/koxudaxi/datamodel-code-generator/pull/2894) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. ℹ️ Labeled issue [#2931](https://github.com/koxudaxi/datamodel-code-generator/issues/2931) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. ℹ️ Labeled issue [#2931](https://github.com/koxudaxi/datamodel-code-generator/issues/2931) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🔒 Closed issue [#2870](https://github.com/koxudaxi/datamodel-code-generator/issues/2870) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🗣 Commented on [#2870](https://github.com/koxudaxi/datamodel-code-generator/issues/2870#issuecomment-3705065465) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. ℹ️ Labeled PR [#2895](https://github.com/koxudaxi/datamodel-code-generator/pull/2895) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 
 <!--END_SECTION:activity-->
 
