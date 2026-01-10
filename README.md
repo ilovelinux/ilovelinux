@@ -23,11 +23,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2928](https://github.com/koxudaxi/datamodel-code-generator/pull/2928#issuecomment-3728596973) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. ℹ️ Labeled issue [#2931](https://github.com/koxudaxi/datamodel-code-generator/issues/2931) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. ℹ️ Labeled issue [#2953](https://github.com/koxudaxi/datamodel-code-generator/issues/2953) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🗣 Commented on [#2928](https://github.com/koxudaxi/datamodel-code-generator/pull/2928#issuecomment-3728596973) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 3. ℹ️ Labeled issue [#2931](https://github.com/koxudaxi/datamodel-code-generator/issues/2931) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🔒 Closed issue [#2870](https://github.com/koxudaxi/datamodel-code-generator/issues/2870) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🗣 Commented on [#2870](https://github.com/koxudaxi/datamodel-code-generator/issues/2870#issuecomment-3705065465) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. ℹ️ Labeled issue [#2931](https://github.com/koxudaxi/datamodel-code-generator/issues/2931) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🔒 Closed issue [#2870](https://github.com/koxudaxi/datamodel-code-generator/issues/2870) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 
 <!--END_SECTION:activity-->
 
