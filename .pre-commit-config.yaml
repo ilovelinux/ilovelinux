@@ -7,11 +7,11 @@ repos:
       - id: end-of-file-fixer
       - id: trailing-whitespace
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.34.0
+    rev: 0.36.1
     hooks:
       - id: check-github-workflows
   - repo: https://github.com/hukkin/mdformat
-    rev: 0.7.22
+    rev: 1.0.0
     hooks:
       - id: mdformat
         additional_dependencies:
@@ -22,14 +22,14 @@ repos:
           - mdformat-footnote
           - mdformat-gfm-alerts
   - repo: https://github.com/jackdewinter/pymarkdown
-    rev: v0.9.32
+    rev: v0.9.35
     hooks:
       - id: pymarkdown
   - repo: https://github.com/crate-ci/typos
-    rev: v1.36.3
+    rev: v1
     hooks:
       - id: typos
   - repo: https://github.com/google/yamlfmt
-    rev: v0.17.2
+    rev: v0.21.0
     hooks:
       - id: yamlfmt
