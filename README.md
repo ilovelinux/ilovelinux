@@ -23,11 +23,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#2979](https://github.com/koxudaxi/datamodel-code-generator/issues/2979) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🗣 Commented on [#2973](https://github.com/koxudaxi/datamodel-code-generator/issues/2973#issuecomment-3847166523) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🗣 Commented on [#45](https://github.com/gkellogg/rdf-distiller/issues/45#issuecomment-3842830949) in [gkellogg/rdf-distiller](https://github.com/gkellogg/rdf-distiller)
-4. 🔒 Closed issue [#2978](https://github.com/koxudaxi/datamodel-code-generator/issues/2978) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. 🗣 Commented on [#2978](https://github.com/koxudaxi/datamodel-code-generator/issues/2978#issuecomment-3839893543) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. ❗ Opened issue [#912](https://github.com/json-ld/json-ld.org/issues/912) in [json-ld/json-ld.org](https://github.com/json-ld/json-ld.org)
+2. 🗣 Commented on [#2973](https://github.com/koxudaxi/datamodel-code-generator/issues/2973#issuecomment-3855190353) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. ℹ️ Labeled issue [#2979](https://github.com/koxudaxi/datamodel-code-generator/issues/2979) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🗣 Commented on [#2973](https://github.com/koxudaxi/datamodel-code-generator/issues/2973#issuecomment-3847166523) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🗣 Commented on [#45](https://github.com/gkellogg/rdf-distiller/issues/45#issuecomment-3842830949) in [gkellogg/rdf-distiller](https://github.com/gkellogg/rdf-distiller)
 
 <!--END_SECTION:activity-->
 
