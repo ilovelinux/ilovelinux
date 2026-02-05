@@ -32,10 +32,3 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 <!--END_SECTION:activity-->
 
 <!--- pyml enable line-length--->
-
----
-
-## :chart_with_upwards_trend: Stats
-
-![ilovelinux's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilovelinux&count_private=true&&show_icons=true&theme=github_dark)
-![ilovelinux's GitHub Streak](https://streak-stats.demolab.com/?user=ilovelinux&theme=github-dark&date_format=j%20M%5B%20Y%5D)
