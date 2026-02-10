@@ -23,10 +23,10 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#912](https://github.com/json-ld/json-ld.org/issues/912) in [json-ld/json-ld.org](https://github.com/json-ld/json-ld.org)
-2. 🗣 Commented on [#912](https://github.com/json-ld/json-ld.org/issues/912#issuecomment-3865366462) in [json-ld/json-ld.org](https://github.com/json-ld/json-ld.org)
-3. 🗣 Commented on [#913](https://github.com/json-ld/json-ld.org/pull/913#issuecomment-3865363634) in [json-ld/json-ld.org](https://github.com/json-ld/json-ld.org)
-4. ℹ️ Labeled issue [#2980](https://github.com/koxudaxi/datamodel-code-generator/issues/2980) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. ℹ️ Labeled issue [#2984](https://github.com/koxudaxi/datamodel-code-generator/issues/2984) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. 🔒 Closed issue [#912](https://github.com/json-ld/json-ld.org/issues/912) in [json-ld/json-ld.org](https://github.com/json-ld/json-ld.org)
+3. 🗣 Commented on [#912](https://github.com/json-ld/json-ld.org/issues/912#issuecomment-3865366462) in [json-ld/json-ld.org](https://github.com/json-ld/json-ld.org)
+4. 🗣 Commented on [#913](https://github.com/json-ld/json-ld.org/pull/913#issuecomment-3865363634) in [json-ld/json-ld.org](https://github.com/json-ld/json-ld.org)
 5. ℹ️ Labeled issue [#2980](https://github.com/koxudaxi/datamodel-code-generator/issues/2980) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 
 <!--END_SECTION:activity-->
