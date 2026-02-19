@@ -23,11 +23,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#64](https://github.com/par-tec/python-cookiecutter/issues/64) in [par-tec/python-cookiecutter](https://github.com/par-tec/python-cookiecutter)
-2. 🗣 Commented on [#63](https://github.com/par-tec/python-cookiecutter/pull/63#issuecomment-3925981664) in [par-tec/python-cookiecutter](https://github.com/par-tec/python-cookiecutter)
-3. 🗣 Commented on [#62](https://github.com/par-tec/python-cookiecutter/pull/62#issuecomment-3925967171) in [par-tec/python-cookiecutter](https://github.com/par-tec/python-cookiecutter)
-4. 💪 Opened PR [#63](https://github.com/par-tec/python-cookiecutter/pull/63) in [par-tec/python-cookiecutter](https://github.com/par-tec/python-cookiecutter)
-5. 🔒 Closed issue [#59](https://github.com/par-tec/python-cookiecutter/issues/59) in [par-tec/python-cookiecutter](https://github.com/par-tec/python-cookiecutter)
+1. ❗ Opened issue [#2697](https://github.com/go-task/task/issues/2697) in [go-task/task](https://github.com/go-task/task)
+2. ℹ️ Labeled issue [#2526](https://github.com/koxudaxi/datamodel-code-generator/issues/2526) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. ❗ Opened issue [#64](https://github.com/par-tec/python-cookiecutter/issues/64) in [par-tec/python-cookiecutter](https://github.com/par-tec/python-cookiecutter)
+4. 🗣 Commented on [#63](https://github.com/par-tec/python-cookiecutter/pull/63#issuecomment-3925981664) in [par-tec/python-cookiecutter](https://github.com/par-tec/python-cookiecutter)
+5. 🗣 Commented on [#62](https://github.com/par-tec/python-cookiecutter/pull/62#issuecomment-3925967171) in [par-tec/python-cookiecutter](https://github.com/par-tec/python-cookiecutter)
 
 <!--END_SECTION:activity-->
 
