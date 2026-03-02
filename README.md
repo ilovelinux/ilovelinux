@@ -23,11 +23,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#3005](https://github.com/koxudaxi/datamodel-code-generator/issues/3005) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🔒 Closed issue [#3005](https://github.com/koxudaxi/datamodel-code-generator/issues/3005) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🗣 Commented on [#3005](https://github.com/koxudaxi/datamodel-code-generator/issues/3005#issuecomment-3946326633) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. ℹ️ Labeled issue [#3003](https://github.com/koxudaxi/datamodel-code-generator/issues/3003) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. ℹ️ Labeled issue [#3003](https://github.com/koxudaxi/datamodel-code-generator/issues/3003) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. ℹ️ Labeled PR [#3011](https://github.com/koxudaxi/datamodel-code-generator/pull/3011) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+2. ℹ️ Labeled PR [#3011](https://github.com/koxudaxi/datamodel-code-generator/pull/3011) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. ℹ️ Labeled issue [#3005](https://github.com/koxudaxi/datamodel-code-generator/issues/3005) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🔒 Closed issue [#3005](https://github.com/koxudaxi/datamodel-code-generator/issues/3005) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🗣 Commented on [#3005](https://github.com/koxudaxi/datamodel-code-generator/issues/3005#issuecomment-3946326633) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 
 <!--END_SECTION:activity-->
 
