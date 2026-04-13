@@ -23,11 +23,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#2087](https://github.com/codenotary/immudb/issues/2087) in [codenotary/immudb](https://github.com/codenotary/immudb)
-2. ❗ Opened issue [#2087](https://github.com/codenotary/immudb/issues/2087) in [codenotary/immudb](https://github.com/codenotary/immudb)
-3. 🎉 Merged PR [#3075](https://github.com/koxudaxi/datamodel-code-generator/pull/3075) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. ℹ️ Labeled issue [#3076](https://github.com/koxudaxi/datamodel-code-generator/issues/3076) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. ℹ️ Labeled PR [#3075](https://github.com/koxudaxi/datamodel-code-generator/pull/3075) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. 🗣 Commented on [#2087](https://github.com/codenotary/immudb/issues/2087#issuecomment-4238593727) in [codenotary/immudb](https://github.com/codenotary/immudb)
+2. 🗣 Commented on [#3078](https://github.com/koxudaxi/datamodel-code-generator/pull/3078#issuecomment-4238483249) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. ℹ️ Labeled issue [#2087](https://github.com/codenotary/immudb/issues/2087) in [codenotary/immudb](https://github.com/codenotary/immudb)
+4. ❗ Opened issue [#2087](https://github.com/codenotary/immudb/issues/2087) in [codenotary/immudb](https://github.com/codenotary/immudb)
+5. 🎉 Merged PR [#3075](https://github.com/koxudaxi/datamodel-code-generator/pull/3075) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 
 <!--END_SECTION:activity-->
 
