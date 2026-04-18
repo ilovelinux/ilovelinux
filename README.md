@@ -23,11 +23,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#78](https://github.com/codenotary/immudb-py/issues/78#issuecomment-4243441225) in [codenotary/immudb-py](https://github.com/codenotary/immudb-py)
-2. 🗣 Commented on [#2087](https://github.com/codenotary/immudb/issues/2087#issuecomment-4238593727) in [codenotary/immudb](https://github.com/codenotary/immudb)
-3. 🗣 Commented on [#3078](https://github.com/koxudaxi/datamodel-code-generator/pull/3078#issuecomment-4238483249) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. ℹ️ Labeled issue [#2087](https://github.com/codenotary/immudb/issues/2087) in [codenotary/immudb](https://github.com/codenotary/immudb)
-5. ❗ Opened issue [#2087](https://github.com/codenotary/immudb/issues/2087) in [codenotary/immudb](https://github.com/codenotary/immudb)
+1. 🗣 Commented on [#3](https://github.com/john-athan/minesweeper/issues/3#issuecomment-4274055581) in [john-athan/minesweeper](https://github.com/john-athan/minesweeper)
+2. 🗣 Commented on [#78](https://github.com/codenotary/immudb-py/issues/78#issuecomment-4243441225) in [codenotary/immudb-py](https://github.com/codenotary/immudb-py)
+3. 🗣 Commented on [#2087](https://github.com/codenotary/immudb/issues/2087#issuecomment-4238593727) in [codenotary/immudb](https://github.com/codenotary/immudb)
+4. 🗣 Commented on [#3078](https://github.com/koxudaxi/datamodel-code-generator/pull/3078#issuecomment-4238483249) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. ℹ️ Labeled issue [#2087](https://github.com/codenotary/immudb/issues/2087) in [codenotary/immudb](https://github.com/codenotary/immudb)
 
 <!--END_SECTION:activity-->
 
