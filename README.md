@@ -23,11 +23,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3178](https://github.com/koxudaxi/datamodel-code-generator/pull/3178#issuecomment-4528637495) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-2. 🗣 Commented on [#3178](https://github.com/koxudaxi/datamodel-code-generator/pull/3178#issuecomment-4525091698) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🎉 Merged PR [#3074](https://github.com/koxudaxi/datamodel-code-generator/pull/3074) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-4. 🗣 Commented on [#3074](https://github.com/koxudaxi/datamodel-code-generator/pull/3074#issuecomment-4497663520) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-5. ❗ Opened issue [#2087](https://github.com/codenotary/immudb/issues/2087) in [codenotary/immudb](https://github.com/codenotary/immudb)
+1. 🗣 Commented on [#6261](https://github.com/gohugoio/hugo/pull/6261#issuecomment-4529160570) in [gohugoio/hugo](https://github.com/gohugoio/hugo)
+2. 🗣 Commented on [#3178](https://github.com/koxudaxi/datamodel-code-generator/pull/3178#issuecomment-4528637495) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+3. 🗣 Commented on [#3178](https://github.com/koxudaxi/datamodel-code-generator/pull/3178#issuecomment-4525091698) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+4. 🎉 Merged PR [#3074](https://github.com/koxudaxi/datamodel-code-generator/pull/3074) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+5. 🗣 Commented on [#3074](https://github.com/koxudaxi/datamodel-code-generator/pull/3074#issuecomment-4497663520) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 
 <!--END_SECTION:activity-->
 
