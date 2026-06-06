@@ -23,11 +23,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#10](https://github.com/par-tec/marp-cookiecutter/issues/10) in [par-tec/marp-cookiecutter](https://github.com/par-tec/marp-cookiecutter)
-2. ❗ Opened issue [#9](https://github.com/par-tec/marp-cookiecutter/issues/9) in [par-tec/marp-cookiecutter](https://github.com/par-tec/marp-cookiecutter)
-3. 🗣 Commented on [#4293](https://github.com/kubernetes-sigs/kubebuilder/issues/4293#issuecomment-4529448353) in [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
-4. 🗣 Commented on [#2087](https://github.com/codenotary/immudb/issues/2087#issuecomment-4529423507) in [codenotary/immudb](https://github.com/codenotary/immudb)
-5. ℹ️ Labeled issue [#14937](https://github.com/gohugoio/hugo/issues/14937) in [gohugoio/hugo](https://github.com/gohugoio/hugo)
+1. 🗣 Commented on [#3677](https://github.com/nix-community/home-manager/issues/3677#issuecomment-4640196715) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. ℹ️ Labeled issue [#9431](https://github.com/nix-community/home-manager/issues/9431) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. ❗ Opened issue [#9431](https://github.com/nix-community/home-manager/issues/9431) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. ❗ Opened issue [#10](https://github.com/par-tec/marp-cookiecutter/issues/10) in [par-tec/marp-cookiecutter](https://github.com/par-tec/marp-cookiecutter)
+5. ❗ Opened issue [#9](https://github.com/par-tec/marp-cookiecutter/issues/9) in [par-tec/marp-cookiecutter](https://github.com/par-tec/marp-cookiecutter)
 
 <!--END_SECTION:activity-->
 
