@@ -10,10 +10,10 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--- pyml disable line-length--->
 
-- :snake: :it:
-  [Design by Contract: costruire software robusto con il Contract-First Development](https://www.youtube.com/watch?v=XTFKHgUJtjM&pp=ygUZZGVzaWduIGJ5IGNvbnRyYWN0IHB5dGhvbg%3D%3D)
-  ([Pycon Italia 2025 @ Bologna, Italy](https://2025.pycon.it/en/event/design-by-contract-costruire-software-robusto-con-il-contract-first-development) -
-  [:page_facing_up: Slides](https://www.slideshare.net/slideshow/design-by-contract-building-robust-software-with-contract-first-development/280097866))
+- :snake: :eu:
+  Leverage pytest's Fixture to write focused and highly decoupled tests
+  ([EuroPython 2026 @ Krakow, Poland](https://ep2026.europython.eu/session/leverage-pytest-s-fixture-to-write-focused-and-highly-decoupled-tests) -
+  [:page_facing_up: Slides](https://ilovelinux.dev/talks/europython-2026-leverage-pytest-s-fixtures-to-write-focused-and-highly-decoupled-tests/))
 
 <!--- pyml enable line-length--->
 
