@@ -25,9 +25,9 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#153630](https://github.com/python/cpython/issues/153630#issuecomment-5011618079) in [python/cpython](https://github.com/python/cpython)
-2. ℹ️ Labeled issue [#3325](https://github.com/koxudaxi/datamodel-code-generator/issues/3325) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
-3. 🗣 Commented on [#3272](https://github.com/koxudaxi/datamodel-code-generator/issues/3272#issuecomment-4643047884) in [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
+1. ❗ Opened issue [#1680](https://github.com/onsi/ginkgo/issues/1680) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
+2. 🗣 Commented on [#2371](https://github.com/waydroid/waydroid/issues/2371#issuecomment-5208516170) in [waydroid/waydroid](https://github.com/waydroid/waydroid)
+3. 🗣 Commented on [#153630](https://github.com/python/cpython/issues/153630#issuecomment-5011618079) in [python/cpython](https://github.com/python/cpython)
 4. 🗣 Commented on [#3677](https://github.com/nix-community/home-manager/issues/3677#issuecomment-4640196715) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 5. ℹ️ Labeled issue [#9431](https://github.com/nix-community/home-manager/issues/9431) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 
