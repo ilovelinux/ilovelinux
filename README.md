@@ -17,6 +17,8 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--- pyml enable line-length--->
 
+[**See all! :eyes:**](https://ilovelinux.dev/talks/)
+
 ## :zap: Recent Activity
 
 <!--- pyml disable line-length--->
