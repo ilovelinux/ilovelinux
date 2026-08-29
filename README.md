@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#9818](https://github.com/nix-community/home-manager/issues/9818) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. ❗ Opened issue [#9818](https://github.com/nix-community/home-manager/issues/9818) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. ❗ Opened issue [#100](https://github.com/gurland/telegram-delete-all-messages/issues/100) in [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages)
-4. ❗ Opened issue [#1680](https://github.com/onsi/ginkgo/issues/1680) in [onsi/ginkgo](https://github.com/onsi/ginkgo)
-5. 🗣 Commented on [#2371](https://github.com/waydroid/waydroid/issues/2371#issuecomment-5208516170) in [waydroid/waydroid](https://github.com/waydroid/waydroid)
+1. ℹ️ Labeled issue [#9874](https://github.com/nix-community/home-manager/issues/9874) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. ℹ️ Labeled issue [#9874](https://github.com/nix-community/home-manager/issues/9874) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. ❗ Opened issue [#9874](https://github.com/nix-community/home-manager/issues/9874) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. ℹ️ Labeled issue [#9818](https://github.com/nix-community/home-manager/issues/9818) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5. ❗ Opened issue [#9818](https://github.com/nix-community/home-manager/issues/9818) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 
 <!--END_SECTION:activity-->
 
