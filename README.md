@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#9874](https://github.com/nix-community/home-manager/issues/9874) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. ℹ️ Labeled issue [#9874](https://github.com/nix-community/home-manager/issues/9874) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. ❗ Opened issue [#9874](https://github.com/nix-community/home-manager/issues/9874) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. ℹ️ Labeled issue [#9818](https://github.com/nix-community/home-manager/issues/9818) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-5. ❗ Opened issue [#9818](https://github.com/nix-community/home-manager/issues/9818) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. 🗣 Commented on [#211](https://github.com/phillipberndt/autorandr/issues/211#issuecomment-5463171789) in [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr)
+2. 🗣 Commented on [#220](https://github.com/linrunner/TLP/issues/220#issuecomment-5462389471) in [linrunner/TLP](https://github.com/linrunner/TLP)
+3. ℹ️ Labeled issue [#557676](https://github.com/NixOS/nixpkgs/issues/557676) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ❗ Opened issue [#557676](https://github.com/NixOS/nixpkgs/issues/557676) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ℹ️ Labeled issue [#557674](https://github.com/NixOS/nixpkgs/issues/557674) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 
 <!--END_SECTION:activity-->
 
