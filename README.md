@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#544729](https://github.com/NixOS/nixpkgs/issues/544729#issuecomment-5553843993) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#901](https://github.com/linrunner/TLP/issues/901#issuecomment-5553741380) in [linrunner/TLP](https://github.com/linrunner/TLP)
-3. 🗣 Commented on [#901](https://github.com/linrunner/TLP/issues/901#issuecomment-5553030612) in [linrunner/TLP](https://github.com/linrunner/TLP)
-4. 🔒 Closed issue [#901](https://github.com/linrunner/TLP/issues/901) in [linrunner/TLP](https://github.com/linrunner/TLP)
-5. ❗ Opened issue [#901](https://github.com/linrunner/TLP/issues/901) in [linrunner/TLP](https://github.com/linrunner/TLP)
+1. 🎉 Merged PR [#9898](https://github.com/nix-community/home-manager/pull/9898) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. 🗣 Commented on [#9898](https://github.com/nix-community/home-manager/pull/9898#issuecomment-5555558756) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. 🗣 Commented on [#544729](https://github.com/NixOS/nixpkgs/issues/544729#issuecomment-5553843993) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#901](https://github.com/linrunner/TLP/issues/901#issuecomment-5553741380) in [linrunner/TLP](https://github.com/linrunner/TLP)
+5. 🗣 Commented on [#901](https://github.com/linrunner/TLP/issues/901#issuecomment-5553030612) in [linrunner/TLP](https://github.com/linrunner/TLP)
 
 <!--END_SECTION:activity-->
 
