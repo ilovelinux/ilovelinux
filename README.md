@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#851](https://github.com/filips123/PWAsForFirefox/issues/851#issuecomment-5676255528) in [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox)
-2. 🗣 Commented on [#393680](https://github.com/NixOS/nixpkgs/issues/393680#issuecomment-5572622803) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#9898](https://github.com/nix-community/home-manager/pull/9898#issuecomment-5557833387) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. 🎉 Merged PR [#9898](https://github.com/nix-community/home-manager/pull/9898) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-5. 🗣 Commented on [#9898](https://github.com/nix-community/home-manager/pull/9898#issuecomment-5555558756) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. ❗ Opened issue [#4520](https://github.com/ent/ent/issues/4520) in [ent/ent](https://github.com/ent/ent)
+2. ❗ Opened issue [#1632](https://github.com/go-playground/validator/issues/1632) in [go-playground/validator](https://github.com/go-playground/validator)
+3. 🗣 Commented on [#851](https://github.com/filips123/PWAsForFirefox/issues/851#issuecomment-5676255528) in [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox)
+4. 🗣 Commented on [#393680](https://github.com/NixOS/nixpkgs/issues/393680#issuecomment-5572622803) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#9898](https://github.com/nix-community/home-manager/pull/9898#issuecomment-5557833387) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 
 <!--END_SECTION:activity-->
 
