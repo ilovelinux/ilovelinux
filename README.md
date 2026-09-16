@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#4520](https://github.com/ent/ent/issues/4520) in [ent/ent](https://github.com/ent/ent)
-2. ❗ Opened issue [#1632](https://github.com/go-playground/validator/issues/1632) in [go-playground/validator](https://github.com/go-playground/validator)
-3. 🗣 Commented on [#851](https://github.com/filips123/PWAsForFirefox/issues/851#issuecomment-5676255528) in [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox)
-4. 🗣 Commented on [#393680](https://github.com/NixOS/nixpkgs/issues/393680#issuecomment-5572622803) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#9898](https://github.com/nix-community/home-manager/pull/9898#issuecomment-5557833387) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. 💪 Opened PR [#290](https://github.com/nbfc-linux/nbfc-linux/pull/290) in [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux)
+2. ℹ️ Labeled issue [#563956](https://github.com/NixOS/nixpkgs/issues/563956) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗ Opened issue [#563956](https://github.com/NixOS/nixpkgs/issues/563956) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#560165](https://github.com/NixOS/nixpkgs/pull/560165#issuecomment-5699814802) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#563903](https://github.com/NixOS/nixpkgs/issues/563903#issuecomment-5699726768) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 
 <!--END_SECTION:activity-->
 
