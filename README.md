@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#290](https://github.com/nbfc-linux/nbfc-linux/pull/290) in [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux)
-2. ℹ️ Labeled issue [#563956](https://github.com/NixOS/nixpkgs/issues/563956) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❗ Opened issue [#563956](https://github.com/NixOS/nixpkgs/issues/563956) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#560165](https://github.com/NixOS/nixpkgs/pull/560165#issuecomment-5699814802) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#563903](https://github.com/NixOS/nixpkgs/issues/563903#issuecomment-5699726768) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. ❌ Closed PR [#2](https://github.com/ilovelinux/nbfc-linux.github.io/pull/2) in [ilovelinux/nbfc-linux.github.io](https://github.com/ilovelinux/nbfc-linux.github.io)
+2. 🎉 Merged PR [#1](https://github.com/ilovelinux/nbfc-linux.github.io/pull/1) in [ilovelinux/nbfc-linux.github.io](https://github.com/ilovelinux/nbfc-linux.github.io)
+3. 💪 Opened PR [#1](https://github.com/ilovelinux/nbfc-linux.github.io/pull/1) in [ilovelinux/nbfc-linux.github.io](https://github.com/ilovelinux/nbfc-linux.github.io)
+4. ❗ Opened issue [#1](https://github.com/nbfc-linux/nbfc-linux.github.io/issues/1) in [nbfc-linux/nbfc-linux.github.io](https://github.com/nbfc-linux/nbfc-linux.github.io)
+5. 💪 Opened PR [#290](https://github.com/nbfc-linux/nbfc-linux/pull/290) in [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux)
 
 <!--END_SECTION:activity-->
 
