@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2740](https://github.com/j178/prek/issues/2740#issuecomment-5760820420) in [j178/prek](https://github.com/j178/prek)
-2. 🗣 Commented on [#31](https://github.com/nixcon/2026.nixcon.org/issues/31#issuecomment-5759784376) in [nixcon/2026.nixcon.org](https://github.com/nixcon/2026.nixcon.org)
-3. 🗣 Commented on [#9963](https://github.com/nix-community/home-manager/issues/9963#issuecomment-5744455124) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. ❗ Opened issue [#2740](https://github.com/j178/prek/issues/2740) in [j178/prek](https://github.com/j178/prek)
-5. 🗣 Commented on [#2737](https://github.com/j178/prek/issues/2737#issuecomment-5742672245) in [j178/prek](https://github.com/j178/prek)
+1. ❗ Opened issue [#128](https://github.com/pyladies/pyladies-kit/issues/128) in [pyladies/pyladies-kit](https://github.com/pyladies/pyladies-kit)
+2. 🗣 Commented on [#1901](https://github.com/intel/media-driver/issues/1901#issuecomment-5762298829) in [intel/media-driver](https://github.com/intel/media-driver)
+3. 🗣 Commented on [#1998](https://github.com/intel/media-driver/issues/1998#issuecomment-5762287424) in [intel/media-driver](https://github.com/intel/media-driver)
+4. 🗣 Commented on [#2740](https://github.com/j178/prek/issues/2740#issuecomment-5760820420) in [j178/prek](https://github.com/j178/prek)
+5. 🗣 Commented on [#31](https://github.com/nixcon/2026.nixcon.org/issues/31#issuecomment-5759784376) in [nixcon/2026.nixcon.org](https://github.com/nixcon/2026.nixcon.org)
 
 <!--END_SECTION:activity-->
 
