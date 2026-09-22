@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#128](https://github.com/pyladies/pyladies-kit/issues/128) in [pyladies/pyladies-kit](https://github.com/pyladies/pyladies-kit)
-2. 🗣 Commented on [#1901](https://github.com/intel/media-driver/issues/1901#issuecomment-5762298829) in [intel/media-driver](https://github.com/intel/media-driver)
-3. 🗣 Commented on [#1998](https://github.com/intel/media-driver/issues/1998#issuecomment-5762287424) in [intel/media-driver](https://github.com/intel/media-driver)
-4. 🗣 Commented on [#2740](https://github.com/j178/prek/issues/2740#issuecomment-5760820420) in [j178/prek](https://github.com/j178/prek)
-5. 🗣 Commented on [#31](https://github.com/nixcon/2026.nixcon.org/issues/31#issuecomment-5759784376) in [nixcon/2026.nixcon.org](https://github.com/nixcon/2026.nixcon.org)
+1. 🗣 Commented on [#290](https://github.com/nbfc-linux/nbfc-linux/pull/290#issuecomment-5776572311) in [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux)
+2. 🎉 Merged PR [#290](https://github.com/nbfc-linux/nbfc-linux/pull/290) in [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux)
+3. ❗ Opened issue [#128](https://github.com/pyladies/pyladies-kit/issues/128) in [pyladies/pyladies-kit](https://github.com/pyladies/pyladies-kit)
+4. 🗣 Commented on [#1901](https://github.com/intel/media-driver/issues/1901#issuecomment-5762298829) in [intel/media-driver](https://github.com/intel/media-driver)
+5. 🗣 Commented on [#1998](https://github.com/intel/media-driver/issues/1998#issuecomment-5762287424) in [intel/media-driver](https://github.com/intel/media-driver)
 
 <!--END_SECTION:activity-->
 
