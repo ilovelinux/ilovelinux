@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#566822](https://github.com/NixOS/nixpkgs/issues/566822) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ℹ️ Labeled issue [#566822](https://github.com/NixOS/nixpkgs/issues/566822) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ℹ️ Labeled issue [#566233](https://github.com/NixOS/nixpkgs/issues/566233) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. ℹ️ Labeled issue [#566233](https://github.com/NixOS/nixpkgs/issues/566233) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. ❗ Opened issue [#566233](https://github.com/NixOS/nixpkgs/issues/566233) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#567199](https://github.com/NixOS/nixpkgs/pull/567199#issuecomment-5847773806) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#567199](https://github.com/NixOS/nixpkgs/pull/567199) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗ Opened issue [#566822](https://github.com/NixOS/nixpkgs/issues/566822) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ℹ️ Labeled issue [#566822](https://github.com/NixOS/nixpkgs/issues/566822) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ℹ️ Labeled issue [#566233](https://github.com/NixOS/nixpkgs/issues/566233) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 
 <!--END_SECTION:activity-->
 
