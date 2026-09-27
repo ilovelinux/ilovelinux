@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#567199](https://github.com/NixOS/nixpkgs/pull/567199#issuecomment-5847773806) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#567199](https://github.com/NixOS/nixpkgs/pull/567199) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❗ Opened issue [#566822](https://github.com/NixOS/nixpkgs/issues/566822) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. ℹ️ Labeled issue [#566822](https://github.com/NixOS/nixpkgs/issues/566822) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. ℹ️ Labeled issue [#566233](https://github.com/NixOS/nixpkgs/issues/566233) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#189](https://github.com/asottile/covdefaults/pull/189#issuecomment-5856674240) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
+2. 🗣 Commented on [#189](https://github.com/asottile/covdefaults/pull/189#issuecomment-5856636401) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
+3. 🗣 Commented on [#567199](https://github.com/NixOS/nixpkgs/pull/567199#issuecomment-5856313010) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 💪 Opened PR [#567494](https://github.com/NixOS/nixpkgs/pull/567494) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 💪 Opened PR [#189](https://github.com/asottile/covdefaults/pull/189) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
 
 <!--END_SECTION:activity-->
 
