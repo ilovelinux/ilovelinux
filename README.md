@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#567494](https://github.com/NixOS/nixpkgs/pull/567494) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🎉 Merged PR [#567199](https://github.com/NixOS/nixpkgs/pull/567199) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#189](https://github.com/asottile/covdefaults/pull/189#issuecomment-5856674240) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
-4. 🗣 Commented on [#189](https://github.com/asottile/covdefaults/pull/189#issuecomment-5856636401) in [asottile/covdefaults](https://github.com/asottile/covdefaults)
-5. 🗣 Commented on [#567199](https://github.com/NixOS/nixpkgs/pull/567199#issuecomment-5856313010) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#567835](https://github.com/NixOS/nixpkgs/issues/567835#issuecomment-5873761946) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🔒 Closed issue [#567835](https://github.com/NixOS/nixpkgs/issues/567835) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 💪 Opened PR [#567856](https://github.com/NixOS/nixpkgs/pull/567856) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🎉 Merged PR [#567494](https://github.com/NixOS/nixpkgs/pull/567494) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🎉 Merged PR [#567199](https://github.com/NixOS/nixpkgs/pull/567199) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 
 <!--END_SECTION:activity-->
 
