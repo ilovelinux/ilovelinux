@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#53](https://github.com/moznion/gonstructor/pull/53) in [moznion/gonstructor](https://github.com/moznion/gonstructor)
-2. 💪 Opened PR [#53](https://github.com/moznion/gonstructor/pull/53) in [moznion/gonstructor](https://github.com/moznion/gonstructor)
-3. ❗ Opened issue [#52](https://github.com/moznion/gonstructor/issues/52) in [moznion/gonstructor](https://github.com/moznion/gonstructor)
-4. 🗣 Commented on [#567835](https://github.com/NixOS/nixpkgs/issues/567835#issuecomment-5873761946) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🔒 Closed issue [#567835](https://github.com/NixOS/nixpkgs/issues/567835) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#390](https://github.com/crate-ci/typos/issues/390#issuecomment-6010107080) in [crate-ci/typos](https://github.com/crate-ci/typos)
+2. ❌ Closed PR [#15](https://github.com/ilovelinux/ilovelinux/pull/15) in [ilovelinux/ilovelinux](https://github.com/ilovelinux/ilovelinux)
+3. 🎉 Merged PR [#53](https://github.com/moznion/gonstructor/pull/53) in [moznion/gonstructor](https://github.com/moznion/gonstructor)
+4. 💪 Opened PR [#53](https://github.com/moznion/gonstructor/pull/53) in [moznion/gonstructor](https://github.com/moznion/gonstructor)
+5. ❗ Opened issue [#52](https://github.com/moznion/gonstructor/issues/52) in [moznion/gonstructor](https://github.com/moznion/gonstructor)
 
 <!--END_SECTION:activity-->
 
