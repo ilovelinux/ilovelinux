@@ -22,11 +22,11 @@ repos:
           - mdformat-footnote
           - mdformat-gfm-alerts
   - repo: https://github.com/jackdewinter/pymarkdown
-    rev: v0.9.40
+    rev: v0.9.41
     hooks:
       - id: pymarkdown
   - repo: https://github.com/crate-ci/typos
-    rev: v1.50.3
+    rev: v1.51.1
     hooks:
       - id: typos
   - repo: https://github.com/google/yamlfmt
