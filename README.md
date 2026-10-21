@@ -25,11 +25,11 @@ I'm Antonio. I love contributing to open-source project and share my knowledge!
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/nbfc-linux/nbfc-linux.github.io/pull/2) in [nbfc-linux/nbfc-linux.github.io](https://github.com/nbfc-linux/nbfc-linux.github.io)
-2. 🗣 Commented on [#390](https://github.com/crate-ci/typos/issues/390#issuecomment-6010107080) in [crate-ci/typos](https://github.com/crate-ci/typos)
-3. ❌ Closed PR [#15](https://github.com/ilovelinux/ilovelinux/pull/15) in [ilovelinux/ilovelinux](https://github.com/ilovelinux/ilovelinux)
-4. 🎉 Merged PR [#53](https://github.com/moznion/gonstructor/pull/53) in [moznion/gonstructor](https://github.com/moznion/gonstructor)
-5. 💪 Opened PR [#53](https://github.com/moznion/gonstructor/pull/53) in [moznion/gonstructor](https://github.com/moznion/gonstructor)
+1. 🗣 Commented on [#2076](https://github.com/NixOS/nixos-hardware/issues/2076#issuecomment-6316020240) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
+2. 🗣 Commented on [#2076](https://github.com/NixOS/nixos-hardware/issues/2076#issuecomment-6315055777) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
+3. 🗣 Commented on [#575192](https://github.com/NixOS/nixpkgs/issues/575192#issuecomment-6312420318) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🎉 Merged PR [#2](https://github.com/nbfc-linux/nbfc-linux.github.io/pull/2) in [nbfc-linux/nbfc-linux.github.io](https://github.com/nbfc-linux/nbfc-linux.github.io)
+5. 🗣 Commented on [#390](https://github.com/crate-ci/typos/issues/390#issuecomment-6010107080) in [crate-ci/typos](https://github.com/crate-ci/typos)
 
 <!--END_SECTION:activity-->
 
